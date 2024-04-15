@@ -3,3 +3,11 @@ body {
     color: #fff;
     font-family: monospace;
 }
+a {
+    color: #fff;
+}
+a:hover {
+    color: #000;
+    background-color: #fff;
+
+}
