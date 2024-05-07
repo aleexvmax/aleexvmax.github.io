@@ -1,3 +1,13 @@
+::-moz-selection { /* Code for Firefox */
+    color: red;
+    background: yellow;
+  }
+  
+  ::selection {
+    color: red;
+    background: yellow;
+  }
+
 body {
     background-color: blue;
     color: #fff;
